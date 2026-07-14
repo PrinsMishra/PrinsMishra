@@ -15,75 +15,21 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/prins-mishra-4415641a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/PrinsMishra/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:Prins.Mishra@iiitb.ac.in"><img src="https://img.shields.io/badge/Email-Prins.Mishra%40iiitb.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://prinsportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
-<!-- About Me with Photo Section -->
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3>🚀 About Me</h3>
-      <p>
-        I am a full-stack developer with over 2 years of experience in building scalable web applications. Skilled in both front-end and back-end development, I specialize in the MERN/Spring Boot stacks and other modern technologies to create seamless user experiences and efficient solutions.
-      </p>
-      <ul>
-        <li>🎓 Currently pursuing <strong>M.Tech in Computer Science & Engineering</strong> at <strong>IIIT Bangalore (2025 - Present)</strong>.</li>
-        <li>🌱 Diving deep into <strong>Machine Learning/AI, System Design, and Advanced Algorithms</strong>.</li>
-        <li>💻 Specialized in engineering RESTful APIs and optimizing database persistence layer.</li>
-        <li>🎯 Current goals: Building robust web systems & solving algorithmic challenges.</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%" align="center">
-      <br/>
-      <img src="./images/portfolio.png" width="220" style="border-radius: 16px; border: 3px solid #38BDF8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.4);" alt="Prins Mishra" />
-    </td>
-  </tr>
-</table>
+### 🚀 About Me
 
----
+I am a passionate **Software Engineer** focused on building clean, high-performance web applications, embedded database engines, and end-to-end MLOps solutions. I enjoy translating complex logic into user-friendly digital experiences using **Java**, **React**, and **C/Python**.
 
-## 💼 Work Experience
-
-### 💻 Software Engineer
-**Ausumn Team Online Services Private Limited** | *June 2023 - Aug 2024*
-- Engineered and maintained robust, scalable RESTful APIs using Spring Boot, adhering to industry best practices for security and performance.
-- Optimized database persistence and query efficiency by implementing JPA and Hibernate ORM, resulting in a measured 15% reduction in latency and better resource utilization.
-- Applied principles of Data Structures and Algorithms (DSA) to significantly refactor and optimize core application logic.
-
-### ⚙️ SDE Intern
-**Techciti Technologies** | *Jun 2022 - Nov 2022*
-- Developed dynamic and responsive front-end applications using React.js, enhancing the user interface and improving customer engagement.
-- Designed and developed reusable and modular React components, improving code maintainability and achieving a 20% reduction in component development time.
-- Collaborated with the design team to ensure accurate implementation of UI/UX specifications and accessibility standards.
-
----
-
-## 🎓 Education
-
-*   🎓 **M.Tech in Computer Science and Engineering** — *IIIT Bangalore* (2025 - Present)
-    *   *Specializing in advanced algorithms, data systems, and AI.*
-*   🎓 **B.Tech in Electronics and Communication Engineering** — *BIET Jhansi* (2019 - 2023)
-    *   *Graduated with a 7.5 CGPA, strong foundation in electronic circuits, communication, and software engineering.*
-
----
-
-## 📊 Developer Stats
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinsMishra&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinsMishra&layout=compact&theme=tokyonight" height="175" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- LeetCode Stats Card -->
-  <img src="https://leetcode-stats-card.herokuapp.com/?username=PrinsMishra&theme=dark" height="175" alt="LeetCode Stats" />
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinsMishra&theme=tokyonight" height="175" alt="GitHub Streak" />
-</p>
+- 🎓 Currently pursuing **Master of Technology in Computer Science & Engineering** at **IIIT Bangalore (2025 - Present)**.
+- 🌱 Specialized interest areas: **Embedded Database Systems, Scalable Web Architectures, and MLOps/AI Platforms**.
+- 💼 Former **Software Engineer** at *Ausumn Team Online Services* and **SDE Intern** at *Techciti Technologies*.
+- 💬 Ask me about: **React, Spring Boot, Custom Databases, Machine Learning, and DSA**.
+- 📬 Email: **[Prins.Mishra@iiitb.ac.in](mailto:Prins.Mishra@iiitb.ac.in)**
 
 ---
 
@@ -99,32 +45,102 @@
 
 ## 📌 Featured Projects
 
-### 💼 [ERP Job Offer System](https://github.com/PrinsMishra/ERP-Offer-Add-)
-*An ERP system designed to manage and track job offers, allowing administrators to streamline the recruitment process.*
-- **Tech Stack:** React JS, Spring Boot, Java, MySQL, HTML, CSS
-- **Key Features:** Admin dashboards, job offer addition/tracking, and responsive forms.
+### 🗄️ [PrinsDB: Custom Embedded Database Engine](https://github.com/PrinsMishra/KernalDB)
+*A modular, C-based embedded database engine designed from the ground up to demonstrate database systems concepts.*
+- **Tech Stack:** C, File Systems, Custom Buffer Managers, LRU Cache, B+ Tree Indexing
+- **Key Core Components:**
+  - **Storage Manager:** Implements slotted-page formatting to read/write database frames onto disk blocks.
+  - **Buffer Pool Manager:** Oversees memory pages using an LRU/Clock eviction scheme to maximize buffer efficiency.
+  - **Table Heap Layer:** Facilitates record insertions, updates, and sequence scans using table iterators.
+  - **Index Manager:** Organizes data pages dynamically with a custom B+ Tree search index.
 
-### 🛒 [Click Basket](https://github.com/PrinsMishra/Click-Basket)
-*A full-stack online food delivery application featuring client ordering, cart management, and admin controls.*
+### 🛡️ [CareerShield: MLOps Layoff Risk Platform](https://github.com/PrinsMishra/layoff-risk-prediction)
+*An end-to-end MLOps predictive analytics dashboard mapping industry, workforce size, and AI exposure to corporate layoff risks.*
+- **Tech Stack:** TensorFlow, FastAPI, React/Vite, Docker Compose, ELK Stack (Elasticsearch, Logstash, Kibana)
+- **Key Core Components:**
+  - **ML Model:** Custom neural network built with TensorFlow to evaluate multi-feature risk classifications.
+  - **Inference Server:** High-throughput backend built using FastAPI, serving real-time model scoring.
+  - **Docker Compose:** Orchestrates containerization of the Vite UI, FastAPI backend, and ELK analytics cluster.
+  - **Real-Time Telemetry:** Integrates Logstash pipelines and Kibana dashboards to display user telemetries.
+
+### 🛒 [Click Basket: E-Commerce Food Platform](https://github.com/PrinsMishra/Click-Basket)
+*A full-stack, enterprise-style food ordering and delivery web application.*
 - **Tech Stack:** React JS, Spring Boot, MongoDB, Java, CSS
-- **Key Features:** Secure authentication, custom cart checkout workflow, and real-time operations.
+- **Key Core Components:**
+  - **Backend APIs:** Modular REST endpoints designed using Java Spring Boot with JPA/Hibernate operations.
+  - **User Portal:** Responsive frontend interface featuring custom state managers, user authentication, and shopping cart details.
+  - **Security:** Built secure JWT authorization filters for admin controls and user accounts.
+
+---
+
+## 📚 Other Core Projects
+
+### 🏫 [ERP Job Offer System](https://github.com/PrinsMishra/ERP-Offer-Add-)
+*An ERP portal built to facilitate hiring managers in posting and tracking candidate offers.*
+- **Tech Stack:** React, Spring Boot, MySQL, Java
+
+### 📈 [Obesity Risk Prediction](https://github.com/PrinsMishra/ML-Project)
+*Data analysis and classifier evaluating lifestyle choices, eating habits, and demographics against obesity levels.*
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy
 
 ### 🏦 [Banking Management System](https://github.com/PrinsMishra/Banking-Management-System)
-*A secure command-line banking administration console utilizing low-level C++ file handling operations.*
+*A secure command-line banking administrator console utilizing low-level C++ file handling operations.*
 - **Tech Stack:** C++, Linux, System Calls, File Handling
-- **Key Features:** Account creation, secure transactions log, and local file storage.
 
-### 📈 [Obesity Risk Analysis](https://github.com/PrinsMishra/ML-Project)
-*A predictive machine learning classifier mapping lifestyle traits, diet habits, and demographics to obesity risks.*
-- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Data Analysis
-- **Key Features:** Model building, lifestyle analysis, and multi-class health classification.
+---
 
-### 🚬 [Smoking Status Classifier](https://github.com/PrinsMishra/ML-Project-2nd-Half/blob/main/ML_2nd_Half_Smoking.ipynb)
-*Predictive biosignal model to classify an individual's smoking status using physical metrics.*
-- **Tech Stack:** Python, Machine Learning, Bio-Signals, classification algorithms
-- **Key Features:** Feature engineering, dataset visualization, and accuracy optimization.
+## 💼 Work Experience
 
-### 🌲 [Forest Cover Type Predictor](https://github.com/PrinsMishra/ML-Project-2nd-Half/blob/main/ML_2nd_Half_Forsest.ipynb)
-*Topography-based machine learning model classifying wilderness areas of Roosevelt National Forest.*
-- **Tech Stack:** Python, Scikit-learn, Data Analytics
-- **Key Features:** High-dimensional topography mapping, decision boundary optimization, and classification metrics.
+### 💻 Software Engineer
+**Ausumn Team Online Services Private Limited** | *June 2023 - Aug 2024*
+- Engineered and maintained robust, scalable RESTful APIs using Spring Boot, adhering to security and performance parameters.
+- Optimized database persistence and query efficiency by implementing JPA and Hibernate ORM, reducing latency by 15%.
+- Refactored core application processes using advanced Data Structures & Algorithms.
+
+### ⚙️ SDE Intern
+**Techciti Technologies** | *Jun 2022 - Nov 2022*
+- Developed responsive front-end single-page applications using React.js.
+- Reduced component development time by 20% by authoring modular, reusable layouts.
+
+---
+
+## 🎓 Education
+
+*   🎓 **M.Tech in Computer Science and Engineering** — *IIIT Bangalore* (2025 - Present)
+*   🎓 **B.Tech in Electronics and Communication Engineering** — *BIET Jhansi* (2019 - 2023)
+
+---
+
+## 📊 Developer Stats
+
+### 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats-card.herokuapp.com/?username=PrinsMishra&theme=dark" height="175" alt="LeetCode Stats" />
+</p>
+
+| Metric | Details |
+| :--- | :--- |
+| **Global Rank** | 🏅 **56,031** |
+| **Total Problems Solved** | 🚀 **837** |
+| **Primary Language** | ☕ **Java** (821 problems solved) |
+| **Specialized Badges** | 🏅 **365 Days Active** • **100 Days Active (2026)** • **50 Days Active (2026)** |
+
+#### 🧠 Advanced Topics Mastered
+- **Dynamic Programming** (160+ problems solved)
+- **Backtracking** (37+ problems solved)
+- **Monotonic Stack** (31+ problems solved)
+
+---
+
+### 💻 GitHub Stats
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinsMishra&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinsMishra&layout=compact&theme=tokyonight" height="175" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinsMishra&theme=tokyonight" height="175" alt="GitHub Streak" />
+</p>
