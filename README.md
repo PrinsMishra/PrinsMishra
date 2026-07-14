@@ -6,16 +6,9 @@
 </p>
 
 <!-- Centered Hello Header with Typing Effect -->
-<h1 align="center">
-  Hi 👋, I'm Prins Mishra
-</h1>
-<h3 align="center">
-  Software Engineer & Full-Stack Developer
-</h3>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Java+%26+React+Developer;Building+Scalable+Web+Apps;Solving+DSA+Problems+on+LeetCode;Creating+Interactive+Desktop+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Fullstack+React+%26+Java+Developer;Software+Engineer;AI%2FML+Engineer;M.Tech+CSE+Student+@+IIITB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,15 +20,52 @@
 
 ---
 
-### 🚀 About Me
+<!-- About Me with Photo Section -->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>🚀 About Me</h3>
+      <p>
+        I am a full-stack developer with over 2 years of experience in building scalable web applications. Skilled in both front-end and back-end development, I specialize in the MERN/Spring Boot stacks and other modern technologies to create seamless user experiences and efficient solutions.
+      </p>
+      <ul>
+        <li>🎓 Currently pursuing <strong>M.Tech in Computer Science & Engineering</strong> at <strong>IIIT Bangalore (2025 - Present)</strong>.</li>
+        <li>🌱 Diving deep into <strong>Machine Learning/AI, System Design, and Advanced Algorithms</strong>.</li>
+        <li>💻 Specialized in engineering RESTful APIs and optimizing database persistence layer.</li>
+        <li>🎯 Current goals: Building robust web systems & solving algorithmic challenges.</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <br/>
+      <img src="./images/portfolio.png" width="220" style="border-radius: 16px; border: 3px solid #38BDF8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.4);" alt="Prins Mishra" />
+    </td>
+  </tr>
+</table>
 
-I am a passionate **Software Engineer** focused on building clean, high-performance web applications and desktop tools. I enjoy translating complex logic into user-friendly digital experiences using **Java** and **React**.
+---
 
-- 🌱 Currently learning: **Next.js, System Design, Advanced Data Structures & Algorithms (DSA)**.
-- 🎯 Current goals: Building robust web systems & solving algorithmic challenges.
-- 💻 Portfolio: **[prinsportfolio.vercel.app](https://prinsportfolio.vercel.app/)**
-- 💬 Ask me about: **React, Java, Java Swing Desktop Applications, Web Architecture**.
-- 📬 Reach me at: **[LinkedIn](https://www.linkedin.com/in/prins-mishra-4415641a5/)**
+## 💼 Work Experience
+
+### 💻 Software Engineer
+**Ausumn Team Online Services Private Limited** | *June 2023 - Aug 2024*
+- Engineered and maintained robust, scalable RESTful APIs using Spring Boot, adhering to industry best practices for security and performance.
+- Optimized database persistence and query efficiency by implementing JPA and Hibernate ORM, resulting in a measured 15% reduction in latency and better resource utilization.
+- Applied principles of Data Structures and Algorithms (DSA) to significantly refactor and optimize core application logic.
+
+### ⚙️ SDE Intern
+**Techciti Technologies** | *Jun 2022 - Nov 2022*
+- Developed dynamic and responsive front-end applications using React.js, enhancing the user interface and improving customer engagement.
+- Designed and developed reusable and modular React components, improving code maintainability and achieving a 20% reduction in component development time.
+- Collaborated with the design team to ensure accurate implementation of UI/UX specifications and accessibility standards.
+
+---
+
+## 🎓 Education
+
+*   🎓 **M.Tech in Computer Science and Engineering** — *IIIT Bangalore* (2025 - Present)
+    *   *Specializing in advanced algorithms, data systems, and AI.*
+*   🎓 **B.Tech in Electronics and Communication Engineering** — *BIET Jhansi* (2019 - 2023)
+    *   *Graduated with a 7.5 CGPA, strong foundation in electronic circuits, communication, and software engineering.*
 
 ---
 
@@ -61,7 +91,7 @@ I am a passionate **Software Engineer** focused on building clean, high-performa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,js,html,css,cpp,nodejs,express,mongodb,postgres,git,github,vscode,figma" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,react,redux,js,html,css,tailwind,bootstrap,nodejs,express,mysql,mongodb,postgres,firebase,c,cpp,csharp,py,git,github,vscode,postman,vercel" alt="My Skills" />
   </a>
 </p>
 
@@ -69,27 +99,32 @@ I am a passionate **Software Engineer** focused on building clean, high-performa
 
 ## 📌 Featured Projects
 
-### 🏫 [Counselling System](https://github.com/PrinsMishra/counselling-system)
-*A student counselling management system to streamline candidate selection and registration.*
-- **Tech Stack:** Java, SQL
-- **Key Features:** Student profile management, registration workflow, counselling slot booking.
+### 💼 [ERP Job Offer System](https://github.com/PrinsMishra/ERP-Offer-Add-)
+*An ERP system designed to manage and track job offers, allowing administrators to streamline the recruitment process.*
+- **Tech Stack:** React JS, Spring Boot, Java, MySQL, HTML, CSS
+- **Key Features:** Admin dashboards, job offer addition/tracking, and responsive forms.
 
-### ✈️ [Travel App](https://github.com/PrinsMishra/travel)
-*An interactive travel explorer website designed to showcase vacation spots and plan itineraries.*
-- **Tech Stack:** HTML5, CSS3, JavaScript
-- **Key Features:** Responsive layouts, modern UI components, travel details dashboard.
+### 🛒 [Click Basket](https://github.com/PrinsMishra/Click-Basket)
+*A full-stack online food delivery application featuring client ordering, cart management, and admin controls.*
+- **Tech Stack:** React JS, Spring Boot, MongoDB, Java, CSS
+- **Key Features:** Secure authentication, custom cart checkout workflow, and real-time operations.
 
-### ✍️ [TextUtils-React](https://github.com/PrinsMishra/TextUtils-react)
-*A React application that provides versatile utilities for manipulating, formatting, and analyzing text.*
-- **Tech Stack:** React, Tailwind CSS, JavaScript
-- **Key Features:** Word/character counts, uppercase/lowercase converters, text clearing, and copy capabilities.
+### 🏦 [Banking Management System](https://github.com/PrinsMishra/Banking-Management-System)
+*A secure command-line banking administration console utilizing low-level C++ file handling operations.*
+- **Tech Stack:** C++, Linux, System Calls, File Handling
+- **Key Features:** Account creation, secure transactions log, and local file storage.
 
-### 🐍 [Snake Game](https://github.com/PrinsMishra/Snake_Game)
-*A retro-style desktop Snake game implemented with smooth mechanics.*
-- **Tech Stack:** Java (Java Swing & AWT)
-- **Key Features:** Real-time keyboard control, score tracking, dynamic speed adjustment.
+### 📈 [Obesity Risk Analysis](https://github.com/PrinsMishra/ML-Project)
+*A predictive machine learning classifier mapping lifestyle traits, diet habits, and demographics to obesity risks.*
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Data Analysis
+- **Key Features:** Model building, lifestyle analysis, and multi-class health classification.
 
-### 📝 [Text Editor](https://github.com/PrinsMishra/Text_Editor)
-*A lightweight text editor desktop application that allows creating and editing text files.*
-- **Tech Stack:** Java Swing
-- **Key Features:** File opening/saving operations, basic formatting options, clean user interface.
+### 🚬 [Smoking Status Classifier](https://github.com/PrinsMishra/ML-Project-2nd-Half/blob/main/ML_2nd_Half_Smoking.ipynb)
+*Predictive biosignal model to classify an individual's smoking status using physical metrics.*
+- **Tech Stack:** Python, Machine Learning, Bio-Signals, classification algorithms
+- **Key Features:** Feature engineering, dataset visualization, and accuracy optimization.
+
+### 🌲 [Forest Cover Type Predictor](https://github.com/PrinsMishra/ML-Project-2nd-Half/blob/main/ML_2nd_Half_Forsest.ipynb)
+*Topography-based machine learning model classifying wilderness areas of Roosevelt National Forest.*
+- **Tech Stack:** Python, Scikit-learn, Data Analytics
+- **Key Features:** High-dimensional topography mapping, decision boundary optimization, and classification metrics.
